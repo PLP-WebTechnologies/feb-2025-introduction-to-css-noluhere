@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Styled HTML Page</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1 id="main-heading">Welcome to My Page</h1>
+  <p class="intro-text">This page is styled using an external CSS file.</p>
+  <div class="info-box">
+    </div>
+<div class="image-container">
+  <img src="https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg" alt="Beach and Ocean" class="resized-img">
+</div>  <h2>About This Page</h2>
+    <p>This section demonstrates the use of classes, IDs, colors, fonts, borders, padding, and margin.</p>
+
+</body>
+</html>
